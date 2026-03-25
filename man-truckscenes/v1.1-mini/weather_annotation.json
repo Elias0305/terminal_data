@@ -1,0 +1,72 @@
+[
+  {
+    "token": "a6441b377a47495d9d4bf36672d07888",
+    "wind_speed": 0.14,
+    "wind_direction": 263.0,
+    "precipitation": 0.0,
+    "temperature": 285.6
+  },
+  {
+    "token": "d47c055365f84fe89791c6f0f8785567",
+    "wind_speed": 0.1,
+    "wind_direction": 231.0,
+    "precipitation": 0.0,
+    "temperature": 282.2
+  },
+  {
+    "token": "e786298a068d413daf281099e7c3c976",
+    "wind_speed": 0.96,
+    "wind_direction": 266.0,
+    "precipitation": 0.0,
+    "temperature": 286.7
+  },
+  {
+    "token": "2c83a1319b4e49d39ce294a1716bc1bc",
+    "wind_speed": 1.53,
+    "wind_direction": 217.0,
+    "precipitation": 4.27,
+    "temperature": 281.9
+  },
+  {
+    "token": "fdbd1c1af1e34a25a0ade23929c0ce97",
+    "wind_speed": 1.7,
+    "wind_direction": 177.0,
+    "precipitation": 0.0,
+    "temperature": 295.5
+  },
+  {
+    "token": "ab6933327238471e83c5cec20a3e2eaa",
+    "wind_speed": 4.8,
+    "wind_direction": 264.0,
+    "precipitation": 0.0,
+    "temperature": 281.4
+  },
+  {
+    "token": "54a0691884e74da68608489ec8964b4a",
+    "wind_speed": 2.43,
+    "wind_direction": 200.0,
+    "precipitation": 0.04,
+    "temperature": 285.5
+  },
+  {
+    "token": "e8cf3bd9c9d04dbaa45ea3ec109a075a",
+    "wind_speed": 0.53,
+    "wind_direction": 285.0,
+    "precipitation": 0.0,
+    "temperature": 282.8
+  },
+  {
+    "token": "93d8caa1dbd2408386212916f67e24fe",
+    "wind_speed": 0.46,
+    "wind_direction": 358.0,
+    "precipitation": 1.59,
+    "temperature": 273.6
+  },
+  {
+    "token": "06ea480f54bf4353b51857649e27bfaa",
+    "wind_speed": 0.83,
+    "wind_direction": 210.0,
+    "precipitation": 0.0,
+    "temperature": 289.7
+  }
+]
